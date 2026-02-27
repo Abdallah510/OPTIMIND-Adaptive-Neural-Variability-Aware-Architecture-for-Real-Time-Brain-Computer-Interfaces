@@ -15,8 +15,6 @@ For example, `1_5.0.txt` corresponds to **participant 1**, **emotion ID 5 (anger
 ---
 
 ## Dataset Structure
-
-- **Location:** `eeg_raw/`
 - **File format:** `.txt`
 - **Sampling rate:** 256 Hz
 - **Channels:** 14 EEG channels (Emotiv X)
